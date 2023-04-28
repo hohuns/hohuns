@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hohuns
 - 😇 I'm Junior Fullstack Developer 
-- 💻 Node.js, Mongodb, mongoose, Express, React.js, Typescript 
+- 💻 Node.js, Mongodb, mongoose, Express, React.js, Typescript, Sass 
 
 
 <!---
