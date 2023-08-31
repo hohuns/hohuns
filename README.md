@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hohuns
-- 😇 I'm Junior Fullstack Developer 
+- 😇 I'm MERN Stack Developer 
 - 💻 Node.js, Mongodb, Express.js, Next.js, React.js, React-Native, Javascript, Typescript, Sass, Tailwind CSS, MUI 5
 
 
